@@ -1,6 +1,4 @@
-package dhan.algorithms.sorting;
-
-import dhan.algorithms.utils.SortChecker;
+package dhan.algorithms.sorting.mergesort;
 
 public class MergeSortInteger {
 

@@ -4,7 +4,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import dhan.algorithms.sorting.MergeSortInteger;
+import dhan.algorithms.sorting.mergesort.MergeSortInteger;
 import dhan.algorithms.utils.SortChecker;
 
 public class MergeSortTester {
